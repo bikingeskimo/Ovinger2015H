@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
+        <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="http://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+        <title>Kunder</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script>
+            $(document).ready(function(){
+                // Bind opp tabellen mot rest-ressursen '/kunder'
+                $('#myTable').DataTable( {
+                    ajax: {
+                        url: 'rest/kunder',
+                        dataSrc: ''
+                    },
+                    columns: [
+                        { data: 'id' },
+                        { data: 'navn' }
+                    ]
+                });
+
+                // Slett rest-ressursen '/kunder/kundeId'
+                $("#delete").click(function () {
+                    $.ajax({
+                        url: '/Oving5_war_exploded/rest/kunder/' + $("#deleteId").val(),
+                        type: 'DELETE',
+                        success: function(result) {
+                            $('#myTable').DataTable().ajax.reload();
+                        }
+                    });
+                });
+
+                // Lag ny rest-ressursen under '/kunder/'
+                $("#create").click(function () {
+                    $.ajax({
+                        url: '/Oving5_war_exploded/rest/kunder',
+                        type: 'POST',
+                        data: JSON.stringify({
+                            id: $("#newId").val(),
+                            navn: $("#newName").val(),
+                        }),
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function(result) {
+                            $('#myTable').DataTable().ajax.reload();
+                        }
+                    });
+                });
+
+                $("#change").click(function(){
+                    $.ajax({
+                        url: '/Oving5_war_exploded/rest/kunder',
+                        type: 'PUT',
+                        data: JSON.stringify({
+                            id: $("#changeId").val(),
+                            navn: $("#changeName").val(),
+                        }),
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (result) {
+                            $('#myTable').DataTable().ajax.reload();
+                        }
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <br>
+            <h1>Kunder</h1>
+        <table id="myTable" class="display compact">
+                <thead>
+                <tr><th>ID</th><th>Navn</th></tr>
+                </thead>
+            </table>
+        <br>
+            <input id="deleteId" type="text" placeholder="deleteId">
+            <button id="delete">Delete</button>
+        </br>
+
+        <br>
+            <input id="newId" type="text" placeholder="newId">
+            <input id="newName" type="text" placeholder="newName">
+            <button id="create">Create New</button>
+        </br>
+
+        <br>
+            <input id="changeId" type="text" placeholder="Id">
+            <input id="changeName" type="text" placeholder="new name">
+            <button id="change">Update</button>
+        </br>
+    </body>
+</html>
