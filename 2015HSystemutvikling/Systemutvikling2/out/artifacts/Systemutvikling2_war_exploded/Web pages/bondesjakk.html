@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Bondesjakk</title>
+    <style type="text/css">
+        #bondesjakkbrett { width:300px;
+            height:300px;
+            border: 3px solid black;
+        }
+        .tabellrute{ background-color: #ccc;}
+
+        .color1{ background-color: red;}
+
+        .color2{ background-color: blue;}
+
+
+    </style>
+</head>
+
+<body>
+    <h1>Spill bondesjakk! </h1>
+
+    <script language="JavaScript">
+        function player1(element){
+            var check = element.getAttribute("class");
+
+            if(check != "tabellrute"){
+                clear(element);
+            }else{
+                element.className = "color1";
+            }
+        }
+        function clear(element){
+            element.className = "tabellrute";
+        }
+
+        function player2(element){
+            element.className = "color2";
+        }
+    </script>
+
+    <p>
+        Her kan to personer spille bondesjakk. Når
+        førstemann (rødt) velger rute, klikker han en gang, og
+        når andremann (grønt) velger rute, dobbeltklikker han.
+    </p>
+
+    <table id="bondesjakkbrett">
+        <tr>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+        </tr>
+        <tr>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+        </tr>
+        <tr>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+            <td class="tabellrute" onclick="player1(this)" ondblclick="player2(this)"></td>
+        </tr>
+        </table>
+
+            <p>Du må laste inn siden på nytt for å starte et nytt spill.</p>
+    </body>
+</html>
