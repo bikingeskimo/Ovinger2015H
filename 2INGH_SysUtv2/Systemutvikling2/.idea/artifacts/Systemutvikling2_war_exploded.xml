@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Systemutvikling2" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/Program Files/jsr311-api-1.1.jar" />
+          <element id="library" level="project" name="javax.ws.rs-api-2.0" />
+        </element>
       </element>
     </root>
   </artifact>
