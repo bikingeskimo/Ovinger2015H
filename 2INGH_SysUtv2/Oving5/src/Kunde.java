@@ -1,4 +1,4 @@
-package rest;
+package Oving5.rest;
 
 import java.io.Serializable;
 
