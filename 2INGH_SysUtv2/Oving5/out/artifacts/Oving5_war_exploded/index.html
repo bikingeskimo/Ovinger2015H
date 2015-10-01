@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css" href=http://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css>
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="http://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
         <title>Kunder</title>
@@ -10,7 +10,8 @@
 
         <script>
             $(document).ready(function(){
-                // Bind opp tabellen mot rest-ressursen '/kunder'
+
+                // Bind opp tabellen mot Oving5.rest-ressursen '/kunder'
                 $('#myTable').DataTable( {
                     ajax: {
                         url: 'rest/kunder',
@@ -22,7 +23,7 @@
                     ]
                 });
 
-                // Slett rest-ressursen '/kunder/kundeId'
+                // Slett Oving5.rest-ressursen '/kunder/kundeId'
                 $("#delete").click(function () {
                     $.ajax({
                         url: '/Oving5_war_exploded/rest/kunder/' + $("#deleteId").val(),
@@ -33,7 +34,7 @@
                     });
                 });
 
-                // Lag ny rest-ressursen under '/kunder/'
+                // Lag ny Oving5.rest-ressursen under '/kunder/'
                 $("#create").click(function () {
                     $.ajax({
                         url: '/Oving5_war_exploded/rest/kunder',
@@ -62,6 +63,9 @@
                         dataType: 'json',
                         success: function (result) {
                             $('#myTable').DataTable().ajax.reload();
+                        },
+                        error: function() {
+                            alert("Feil!");
                         }
                     });
                 });

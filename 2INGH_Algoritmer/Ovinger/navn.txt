@@ -1,0 +1,82 @@
+Aakvik,Mathias,mathiaa@student.hist.no
+Aasbø,Ole-Johannes,olejohaa@student.hist.no
+Aukan,Elias Sundby,eliassa@student.hist.no
+Bakk,Bjarne,bjarnba@student.hist.no
+Barø,Espen Leistad,espenlba@student.hist.no
+Bergheim,Roger Schei,rogersbe@student.hist.no
+Bergman,Olof Andreas,olofab@student.hist.no
+Bjørkheim,Henrik,henrikbj@student.hist.no
+Bjørnnes,Stein-Erik,steinerb@student.hist.no
+Brenna,Hans,hansbre@student.hist.no
+Byre,Synne,synneby@student.hist.no
+Børmark,Olve Andre Ynonan,oabormar@student.hist.no
+Børsheim,Andreas,andrbo@student.hist.no
+Cubedo,Antonio Johansen,antonioc@student.hist.no
+Dalen,Gunnar Krutø,gunnarkd@student.hist.no
+Deribas,Vsevolod,vsevolod@student.hist.no
+Eikeland,Sindre Philip,sindrepe@student.hist.no
+Evensen,Ingrid,ingridev@student.hist.no
+Farstad,Henrik,henrifa@student.hist.no
+Frydenlund,Jan Erik,janefr@student.hist.no
+Fung,Mei Yain,meiyf@student.hist.no
+Gjerde,Sindre Adolfsen,sindregj@student.hist.no
+Gravem,Ingvild Liabø,ingvilgr@student.hist.no
+Gravseth,Christian Bones,chrig@student.hist.no
+Haugrud,Thomas Dørum,thomasdh@student.hist.no
+Henriksveen,Simen,simenhen@student.hist.no
+Holthe-Berg,Rein Nisja,reinnh@student.hist.no
+Hordvei,Shane Tobias Barrett,sthordve@student.hist.no
+Horgheim,Kolbjørn,kolbjorh@student.hist.no
+Huseby,Johann Olav Valdre,johuseby@student.hist.no
+Hæreid,Sigurd,sigurha@student.hist.no
+Jacobsen,Magnus Strand,magnussj@student.hist.no
+Johannessen,Eirik Mikal,eirikmjo@student.hist.no
+Johnsen,Andreas Almvik,andrejoh@student.hist.no
+J?ssund,Thomas,thomafj@student.hist.no
+Karlsen,Aksel Langø,aksellk@student.hist.no
+Langø,Awat Abdollahzadeh,awatal@student.hist.no
+Løkken,Erlend,erlenlo@student.hist.no
+Løkken,Hallgeir,hallgeil@student.hist.no
+Løkås,B?rd,baardl@student.hist.no
+Løvhaug,Sondre,sondrl@student.hist.no
+Markussen,Markus,markuma@student.hist.no
+Matberg,Håvard Granaune,haavargm@student.hist.no
+Mathisen,Mikael,mikaelma@student.hist.no
+Mentzoni,Fredric Segtnan,fredricm@student.hist.no
+Myre,Haldor,haldorm@student.hist.no
+Nielsen,Eirik Skjellum,eiriksn@student.hist.no
+Oldervoll,Sondre,sondreol@student.hist.no
+Opdahl,Kamilla Brevik,kamillbo@student.hist.no
+Opdal,Karoline Susanne,karoliop@student.hist.no
+Pettersen,Martin,martp@student.hist.no
+Påsche,Anders,anderpa@student.hist.no
+Rasmussen,Dan Tungesvik,dantr@student.hist.no
+Refsnæs,Jonas Nilsberg,jonasnr@student.hist.no
+Rindhølen,Sjur Haugen,sjurhr@student.hist.no
+Rusten,Benjamin,benjamir@student.hist.no
+Rye-Holmboe,Rikke,rikkery@student.hist.no
+Røen,Arne,arneroe@student.hist.no
+Røstvold,Kasper,kasperr@student.hist.no
+Sandvær,Fredrik Mortensen,fredrms@student.hist.no
+Saur,Eirik Eide,eirikesa@student.hist.no
+Skevik,Jørgen,jorgeske@student.hist.no
+Skogstad,Ole Jørgen G,olejsk@student.hist.no
+Staven,Brage Grytan,bragegs@student.hist.no
+Steinset,Erlend Kummeneje,erlendks@student.hist.no
+Storset,Elisabeth,elisasto@student.hist.no
+Stuen,Vegard,vegarstu@student.hist.no
+Størvold,Børge,borgs@student.hist.no
+Sæther,Ane,anesa@student.hist.no
+Thon,Anders,anderth@student.hist.no
+Torkildson,Erik Nilsen,eriknt@student.hist.no
+Trustrup,Sigrid Rein,sigridrt@student.hist.no
+Udahl,Mathias,mathiasu@student.hist.no
+Vingen,Sindre Aarvik,sindreav@student.hist.no
+Waatevik,Endre,endrew@student.hist.no
+Width,Henrik,henriksw@student.hist.no
+Wiik,Matz-Leander Solheim,matzw@student.hist.no
+Wollan,Arild,arildwol@student.hist.no
+Wærness,Eric Halland,erichw@student.hist.no
+Zakariassen,Christian Winther,chriwi@student.hist.no
+Ødegård,Henrik Sunde,henrikod@student.hist.no
+Øvrebø,Jonas Hysing,jonashov@student.hist.no

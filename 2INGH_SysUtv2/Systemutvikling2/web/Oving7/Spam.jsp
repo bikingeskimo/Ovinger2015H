@@ -8,9 +8,12 @@
   Tar imot dataene i html-formen til Person og tar også inn
   -Motta spam? (checkbox)
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<jsp:useBean id="bean" class="Oving7.Bean" scope="session"/>
+<%@page import="beans.Bean" %>
+<%@page contentType="text/html;charset=UTF-8" language="java"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<jsp:useBean id="bean" class="beans.Bean" scope="session"/>
 <jsp:setProperty name="bean" property="*"/>
+
 <!DOCTYPE html>
 <html>
     <head>

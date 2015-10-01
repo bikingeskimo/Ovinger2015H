@@ -1,4 +1,4 @@
-!SESSION 2015-09-14 11:32:28.194 -----------------------------------------------
+!SESSION 2015-09-17 13:41:29.331 -----------------------------------------------
 eclipse.buildId=4.4.1.M20140925-0400
 java.version=1.8.0_51
 java.vendor=Oracle Corporation
@@ -6,7 +6,7 @@ BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
 Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
 
-!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-09-14 11:32:29.474
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-09-17 13:41:30.911
 !MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
 !STACK 0
 java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
@@ -17,15 +17,15 @@ java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfigu
 	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
 	at java.util.TimerThread.mainLoop(Unknown Source)
 	at java.util.TimerThread.run(Unknown Source)
-!SESSION 2015-09-14 11:33:27.710 -----------------------------------------------
+!SESSION 2015-09-28 12:55:25.428 -----------------------------------------------
 eclipse.buildId=4.4.1.M20140925-0400
 java.version=1.8.0_51
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
-Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
-Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer -product org.eclipse.epp.package.java.product
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
 
-!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-09-14 11:33:28.897
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-09-28 12:55:26.788
 !MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
 !STACK 0
 java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String

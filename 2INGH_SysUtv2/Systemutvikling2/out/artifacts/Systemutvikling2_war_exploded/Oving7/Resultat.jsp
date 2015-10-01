@@ -9,7 +9,7 @@
   Gå tilbake og skift på et parameter, og få dette til å endre i denne jsp-en
 
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@page contentType="text/html;charset=UTF-8" language="java"%>
 <html>
 <head>
     <title>Resultat</title>

@@ -10,6 +10,8 @@
         <element id="directory" name="lib">
           <element id="file-copy" path="D:/Program Files/jsr311-api-1.1.jar" />
           <element id="library" level="project" name="javax.ws.rs-api-2.0" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jstl-1.2_1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../jstl-1.2.jar" />
         </element>
       </element>
     </root>

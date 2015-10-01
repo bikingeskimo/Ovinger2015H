@@ -1,4 +1,4 @@
-package ovinger_Algoritmer;
+package Algoritmer;
 
 import java.util.Scanner;
 

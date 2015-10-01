@@ -13,6 +13,8 @@ package Algoritmer.Oving5;
  * være spredt over et område som er mye større enn tabellstørrelsen. Vi gjør klar
  * de tilfeldige tallene på forhånd, da randomfunksjonen er mye tregere enn en
  * god hashfunksjon. Vi vil måle tiden på hashoperasjonene, ikke Math.Random.
+ *
+ *
  * 3. Ta tiden på å sette inn de tilfeldige tallene i hashtabellen deres. Sammenlign
  * med tidsforbruket for å sette de samme tallene inn i java.util sin HashMap.1.
  *
@@ -21,4 +23,11 @@ package Algoritmer.Oving5;
  * Created by Roger on 14.09.2015.
  */
 public class Oving5 {
+    private String value;
+    private int key;
+
+    public Oving5(String value, int key) {
+        this.value = value;
+        this.key = key;
+    }
 }

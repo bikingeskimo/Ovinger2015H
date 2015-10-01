@@ -21,22 +21,90 @@
  */
 package Algoritmer.Oving5;
 
+import java.io.IOException;
+
 /**
  * @author Roger
  *
  */
 public class Hashtabell {
+	private String[] ht;
+    int arraySize;
+    int collisions;
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    public Hashtabell(int size) {
+        ht = new String[size];
+        arraySize = size;
+    }
 
-	}
+    public int stringToInteger(String s){
+        int key = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            key += ((int) s.charAt(i)) * (i+1);
+        }
+        return key;
+    }
 	
-	public void h1() {}
+	public int h1(int key) {return key % arraySize;}
 	
-	public void h2() {}
+	public int h2(int key) {return  10 - (key % 10);}
+
+    public void add(String n){
+        int key = stringToInteger(n);
+        int h1 = h1(key);
+        int h2 = h2(key);
+
+        while (ht[h1] != null){
+            collisions ++;
+            System.out.println(n + " collided with " + ht[h1] + "\n");
+            h1 += h2;
+            h1 %= arraySize;
+        }
+        ht[h1] = n;
+    }
+
+    public String find(String n){
+        int key = stringToInteger(n);
+        int hashVal = h1(key);
+        int stepSize = h2(key);
+
+        while (ht[hashVal] != null){
+            if (ht[hashVal].equals(n)){
+                return ht[hashVal];
+            }
+            hashVal += stepSize;
+            hashVal %= arraySize;
+        }
+        return null;
+    }
+
+    public void displayTable(){
+        System.out.println("Table: " + "\n");
+        for (int j = 0; j < arraySize; j++) {
+            if (ht[j] != null){
+                System.out.println(ht[j]);
+            }/*else {
+                System.out.println(" ");
+            }*/
+        }
+        System.out.println("");
+    }
+
+    public int getCollisions(){
+        return collisions;
+    }
+
+    public double getFactor() {
+        double elements = 0;
+        for (int i = 0; i < arraySize; i++) {
+            if (ht[i] != null) {
+                elements++;
+            }
+
+        }
+        return elements / arraySize;
+    }
+
 
 }

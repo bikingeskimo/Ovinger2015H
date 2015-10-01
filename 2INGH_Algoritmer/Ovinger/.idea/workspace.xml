@@ -1,34 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63be99ea-2af1-4aaa-9e45-3858eb58297e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/Hint.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ovinger.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Roger.xml" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\description.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\H2015.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\out\production\H2015\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving1.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving2.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving2b.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving3.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving3b.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving4.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\src\Algoritmer\Oving4b.java" afterPath="" />
+    <list default="true" id="8c4427b5-d6c7-407d-b665-672ccdf82592" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving7/L7g1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/RandomHash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/.idea/artifacts/Systemutvikling2_Web2_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/WEB-INF/lib/c.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/navn.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.metadata\.mylyn\.tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.metadata\.mylyn\tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.idea\dictionaries\Roger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.project" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\H2015.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\src\Algoritmer\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\src\Algoritmer\Oving5\Hint.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_SysUtv2\Systemutvikling2\out\artifacts\Systemutvikling2_war_exploded\WEB-INF\classes\Oving7\Bean.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_SysUtv2\Systemutvikling2\out\production\Systemutvikling2\Oving7\Bean.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/WEB-INF/classes/rest/KundeService.class" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/WEB-INF/classes/rest/KundeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/production/Oving5/rest/KundeService.class" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/production/Oving5/rest/KundeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.log" afterPath="$PROJECT_DIR$/../.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Oppsummering.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Oppsummering.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Oppsummering.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Oppsummering.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving1.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving4.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ovinger.iml" afterPath="$PROJECT_DIR$/Ovinger.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Person.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Person.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Person.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Person.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Resultat.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Resultat.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Resultat.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Resultat.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Spam.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/Oving7/Spam.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Spam.jsp" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/Oving7/Spam.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/Systemutvikling2.iml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/Systemutvikling2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/.idea/artifacts/Systemutvikling2_war_exploded.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/.idea/artifacts/Systemutvikling2_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/index.html" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/web/index.html" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/version.ini" afterPath="$PROJECT_DIR$/../.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/out/artifacts/Oving5_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/out/artifacts/Systemutvikling2_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_Algoritmer\Ovinger\src\småting\Kvadratrot.java" afterPath="$PROJECT_DIR$/src/smaating/Kvadratrot.java" />
+      <change type="MOVED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_SysUtv2\Oving5\src\Kunde.java" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/src/rest/Kunde.java" />
+      <change type="MOVED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_SysUtv2\Oving5\src\KundeService.java" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Oving5/src/rest/KundeService.java" />
+      <change type="MOVED" beforePath="D:\Users\Roger\Documents\Programmering\2INGH_Ovinger\2INGH_SysUtv2\Systemutvikling2\src\Oving7\Bean.java" afterPath="$PROJECT_DIR$/../../2INGH_SysUtv2/Systemutvikling2/src/beans/Bean.java" />
     </list>
     <ignored path="Ovinger.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,9 +93,73 @@
         <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+              <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#2992#2993#0" expanded="true" />
+                <element signature="e#3025#3026#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oving7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2714#2715#0" expanded="true" />
+                <element signature="e#2742#2743#0" expanded="true" />
+                <element signature="e#2768#2769#0" expanded="true" />
+                <element signature="e#2793#2794#0" expanded="true" />
+                <element signature="e#2913#2914#0" expanded="true" />
+                <element signature="e#2940#2941#0" expanded="true" />
+                <element signature="e#2969#2970#0" expanded="true" />
+                <element signature="e#2997#2998#0" expanded="true" />
+                <element signature="e#3017#3018#0" expanded="true" />
+                <element signature="e#3048#3049#0" expanded="true" />
+                <element signature="e#3194#3195#0" expanded="true" />
+                <element signature="e#3231#3232#0" expanded="true" />
+                <element signature="e#3258#3259#0" expanded="true" />
+                <element signature="e#3292#3293#0" expanded="true" />
+                <element signature="e#3320#3321#0" expanded="true" />
+                <element signature="e#3363#3364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="L7g1.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving7/L7g1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.47890535">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomHash.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/RandomHash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+              <folding>
+                <element signature="e#1256#1257#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,27 +169,7 @@
         <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hint.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Hint.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47890535">
-              <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algoritmer/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -99,7 +185,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
@@ -110,9 +195,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java" />
         <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java" />
-        <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/Hint.txt" />
+        <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/Main.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmer/Oving5/RandomHash.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmer/Oving7/L7g1.txt" />
       </list>
     </option>
   </component>
@@ -152,6 +240,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,29 +309,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Oving5" />
+              <option name="myItemId" value="Oving7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oving7.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ovinger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ovinger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algoritmer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oving7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../IdeaProjects/FuckThis" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Algoritmer.Oving5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Algoritmer.Oving5.Main" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Ovinger" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -286,19 +416,12 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -411,9 +534,9 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -429,14 +552,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -456,9 +571,9 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -474,6 +589,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -482,49 +603,73 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63be99ea-2af1-4aaa-9e45-3858eb58297e" name="Default" comment="" />
-      <created>1442223854484</created>
+      <changelist id="8c4427b5-d6c7-407d-b665-672ccdf82592" name="Default" comment="" />
+      <created>1442489056007</created>
       <option name="number" value="Default" />
-      <updated>1442223854484</updated>
-      <workItem from="1442223859808" duration="371000" />
+      <updated>1442489056007</updated>
+      <workItem from="1442489061710" duration="102000" />
+      <workItem from="1442489187072" duration="6000" />
+      <workItem from="1442489814029" duration="25000" />
+      <workItem from="1442490105641" duration="7017000" />
+      <workItem from="1443437794047" duration="1013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371000" />
+    <option name="totallyTimeSpent" value="8163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35882354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21318682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -533,21 +678,39 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/RandomHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,15 +718,81 @@
     <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Hint.txt">
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Oving5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Hashtabell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+          <folding>
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/RandomHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
+            <element signature="e#2768#2769#0" expanded="true" />
+            <element signature="e#2793#2794#0" expanded="true" />
+            <element signature="e#2913#2914#0" expanded="true" />
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#2969#2970#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+            <element signature="e#3017#3018#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3194#3195#0" expanded="true" />
+            <element signature="e#3231#3232#0" expanded="true" />
+            <element signature="e#3258#3259#0" expanded="true" />
+            <element signature="e#3292#3293#0" expanded="true" />
+            <element signature="e#3320#3321#0" expanded="true" />
+            <element signature="e#3363#3364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving7/L7g1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47890535">
-          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
           <folding />
         </state>
       </provider>

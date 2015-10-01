@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css" href=http://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css>
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="http://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
         <title>Kunder</title>
@@ -10,10 +10,11 @@
 
         <script>
             $(document).ready(function(){
+
                 // Bind opp tabellen mot Oving5.rest-ressursen '/kunder'
                 $('#myTable').DataTable( {
                     ajax: {
-                        url: '/Oving5/rest/kunder',
+                        url: 'rest/kunder',
                         dataSrc: ''
                     },
                     columns: [
@@ -25,7 +26,7 @@
                 // Slett Oving5.rest-ressursen '/kunder/kundeId'
                 $("#delete").click(function () {
                     $.ajax({
-                        url: '/Systemutvikling2_war_exploded/Oving5/rest/kunder/' + $("#deleteId").val(),
+                        url: '/Oving5_war_exploded/rest/kunder/' + $("#deleteId").val(),
                         type: 'DELETE',
                         success: function(result) {
                             $('#myTable').DataTable().ajax.reload();
@@ -36,7 +37,7 @@
                 // Lag ny Oving5.rest-ressursen under '/kunder/'
                 $("#create").click(function () {
                     $.ajax({
-                        url: '/Systemutvikling2_war_exploded/Oving5/rest/kunder',
+                        url: '/Oving5_war_exploded/rest/kunder',
                         type: 'POST',
                         data: JSON.stringify({
                             id: $("#newId").val(),
@@ -52,7 +53,7 @@
 
                 $("#change").click(function(){
                     $.ajax({
-                        url: '/Systemutvikling2_war_exploded/Oving5/rest/kunder',
+                        url: '/Oving5_war_exploded/rest/kunder',
                         type: 'PUT',
                         data: JSON.stringify({
                             id: $("#changeId").val(),
@@ -62,6 +63,9 @@
                         dataType: 'json',
                         success: function (result) {
                             $('#myTable').DataTable().ajax.reload();
+                        },
+                        error: function() {
+                            alert("Feil!");
                         }
                     });
                 });

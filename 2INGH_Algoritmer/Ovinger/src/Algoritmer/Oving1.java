@@ -1,6 +1,3 @@
-package ovinger_Algoritmer;
-
-
 /**
  * Created by Roger on 17.08.2015.
  * 
