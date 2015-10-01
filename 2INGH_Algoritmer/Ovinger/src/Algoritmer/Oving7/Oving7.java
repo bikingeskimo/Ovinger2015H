@@ -20,66 +20,68 @@ public class Oving7 {
         File fil4 = new File("fil4.txt");
 
         BufferedReader br = new BufferedReader(new FileReader(fil1));
-        Graf graf = new Graf();
-        graf.ny_ugraf(br);
-        graf.bfs(graf.node[3]);
-        System.out.println(graf.toString());
+        Graph graph = new Graph();
+        graph.newUndergraph(br);
+        graph.bfs(graph.node[3]);
+        System.out.println(graph.toString());
     }
 }
 
-class Graf{
+class Graph {
     int N,K;
     Node []node;
 
-    public void ny_ugraf(BufferedReader br)throws IOException {
+    public void newUndergraph(BufferedReader br)throws IOException {
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         node = new Node[N];
+
         for (int i = 0; i < N; i++){
             node[i] = new Node();
             node[i].setNr(i);
         }
         K = Integer.parseInt(st.nextToken());
+
         for (int i = 0; i < K; i++){
             st = new StringTokenizer(br.readLine());
             int fra = Integer.parseInt(st.nextToken());
             int til = Integer.parseInt(st.nextToken());
-            Kant k = new Kant(node[til], node[fra].kant1);
-            node[fra].kant1 = k;
+            Kant k = new Kant(node[til], node[fra].kant2);
+            node[fra].kant2 = k;
         }
     }
 
     public void initforgj(Node s){
         for (int i = N; i-->0;){
-            node[i].d = new Forgj();
+            node[i].d = new Last();
         }
-        ((Forgj)s.d).dist = 0;
+        ((Last)s.d).dist = 0;
     }
 
     public void bfs(Node s){
         initforgj(s);
-        Kø kø = new Kø(N - 1);
-        kø.leggIKø(s);
-        while (!kø.tom()){
-            Node n = (Node)kø.nesteIKø();
-            for (Kant k = n.kant1; k != null; k = k.neste){
-                Forgj f = (Forgj)k.til.d;
-                if (f.dist == f.uendelig){
-                    f.dist = ((Forgj)n.d).dist + 1;
-                    f.forgj = n;
-                    kø.leggIKø(k.til);
+        Queue queue = new Queue(N - 1);
+        queue.putInQueue(s);
+        while (!queue.empty()){
+            Node n = (Node) queue.nextInQueue();
+            for (Kant k = n.kant2; k != null; k = k.neste){
+                Last f = (Last)k.til.d;
+                if (f.dist == f.infinity){
+                    f.dist = ((Last)n.d).dist + 1;
+                    f.last = n;
+                    queue.putInQueue(k.til);
                 }
             }
         }
     }
 
     public String toString(){
-        String str = "Node	Forgj 	Dist \n";
+        String str = "Node	Last 	Dist \n";
         for(int i = 0; i<node.length; i++){
-            if(((Forgj)node[i].d).forgj != null){
-                str += "" + i + "	" + ((Forgj)node[i].d).forgj.getNr() + " 	" + ((Forgj)node[i].d).dist + "\n";
+            if(((Last)node[i].d).last != null){
+                str += "" + i + "	" + ((Last)node[i].d).last.getNr() + " 	" + ((Last)node[i].d).dist + "\n";
             }else{
-                str += "" + i + "		" + ((Forgj)node[i].d).dist + "\n";
+                str += "" + i + "		" + ((Last)node[i].d).dist + "\n";
             }
         }
         return str;
@@ -98,7 +100,7 @@ class Kant{
 }
 
 class Node{
-    Kant kant1;
+    Kant kant2;
     Object d;
     int nr;
 
@@ -111,58 +113,60 @@ class Node{
     }
 }
 
-class Forgj {
+class Last {
     int dist;
-    Node forgj;
-    public static int uendelig = 1000000000;
-    public int finn_dist(){
+    Node last;
+    public static int infinity = 1000000000;
+
+    public int getDist(){
         return dist;
     }
-    public Node finn_forj(){
-        return forgj;
+
+    public Node getLast(){
+        return last;
     }
-    public Forgj(){
-        dist = uendelig;
+    public Last(){
+        dist = infinity;
     }
 }
 
-class Kø{
+class Queue {
     private Object[] tab;
     private int start = 0;
-    private int slutt = 0;
-    private int antall = 0;
+    private int stop = 0;
+    private int number = 0;
 
-    public Kø(int str){
+    public Queue(int str){
         tab = new Object[str];
     }
 
-    public boolean tom(){
-        return antall == 0;
+    public boolean empty(){
+        return number == 0;
     }
 
     public boolean full(){
-        return antall == tab.length;
+        return number == tab.length;
     }
 
-    public void leggIKø(Object e){
+    public void putInQueue(Object e){
         if (full()) return;
-        tab[slutt] = e;
-        slutt = (slutt + 1) % tab.length;
-        antall++;
+        tab[stop] = e;
+        stop = (stop + 1) % tab.length;
+        number++;
     }
 
-    public Object nesteIKø(){
-        if (!tom()){
+    public Object nextInQueue(){
+        if (!empty()){
             Object e = tab[start];
             start = (start + 1) % tab.length;
-            antall--;
+            number--;
             return e;
         }
         else return null;
     }
 
-    public Object sjekkKø(){
-        if (!tom()) return tab[start];
+    public Object checkQueue(){
+        if (!empty()) return tab[start];
         else return null;
     }
 }
