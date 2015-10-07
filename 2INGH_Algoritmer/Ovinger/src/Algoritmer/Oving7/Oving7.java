@@ -2,7 +2,6 @@ package Algoritmer.Oving7;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
@@ -14,14 +13,14 @@ import java.util.StringTokenizer;
 
 public class Oving7 {
     public static void main(String[] args) throws IOException{
-        File fil1 = new File("fil1.txt");
+        File fil1 = new File("fil1.txt");                           //bruker L7g1-4, men kaller dem fil1, fil2 osv
         File fil2 = new File("fil2.txt");
         File fil3 = new File("fil3.txt");
         File fil4 = new File("fil4.txt");
 
         BufferedReader br = new BufferedReader(new FileReader(fil1));
         Graph graph = new Graph();
-        graph.newUndergraph(br);
+        graph.newGraph(br);
         graph.bfs(graph.node[3]);
         System.out.println(graph.toString());
     }
@@ -31,7 +30,7 @@ class Graph {
     int N,K;
     Node []node;
 
-    public void newUndergraph(BufferedReader br)throws IOException {
+    public void newGraph(BufferedReader br)throws IOException {
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         node = new Node[N];
