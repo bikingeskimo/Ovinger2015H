@@ -1,8 +1,7 @@
-package Algoritmer.Oving7;
+package Algoritmer;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
@@ -14,14 +13,14 @@ import java.util.StringTokenizer;
 
 public class Oving7 {
     public static void main(String[] args) throws IOException{
-        File fil1 = new File("fil1.txt");
+        File fil1 = new File("fil1.txt");                           //bruker L7g1-4, men kaller dem fil1, fil2 osv
         File fil2 = new File("fil2.txt");
         File fil3 = new File("fil3.txt");
         File fil4 = new File("fil4.txt");
 
         BufferedReader br = new BufferedReader(new FileReader(fil1));
         Graph graph = new Graph();
-        graph.newUndergraph(br);
+        graph.newGraph(br);
         graph.bfs(graph.node[3]);
         System.out.println(graph.toString());
     }
@@ -31,7 +30,7 @@ class Graph {
     int N,K;
     Node []node;
 
-    public void newUndergraph(BufferedReader br)throws IOException {
+    public void newGraph(BufferedReader br)throws IOException {
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         node = new Node[N];
@@ -44,14 +43,14 @@ class Graph {
 
         for (int i = 0; i < K; i++){
             st = new StringTokenizer(br.readLine());
-            int fra = Integer.parseInt(st.nextToken());
-            int til = Integer.parseInt(st.nextToken());
-            Kant k = new Kant(node[til], node[fra].kant2);
-            node[fra].kant2 = k;
+            int from = Integer.parseInt(st.nextToken());
+            int to = Integer.parseInt(st.nextToken());
+            Kant k = new Kant(node[to], node[from].kant2);
+            node[from].kant2 = k;
         }
     }
 
-    public void initforgj(Node s){
+    public void init(Node s){
         for (int i = N; i-->0;){
             node[i].d = new Last();
         }
@@ -59,17 +58,17 @@ class Graph {
     }
 
     public void bfs(Node s){
-        initforgj(s);
+        init(s);
         Queue queue = new Queue(N - 1);
         queue.putInQueue(s);
         while (!queue.empty()){
             Node n = (Node) queue.nextInQueue();
-            for (Kant k = n.kant2; k != null; k = k.neste){
-                Last f = (Last)k.til.d;
+            for (Kant k = n.kant2; k != null; k = k.next){
+                Last f = (Last)k.to.d;
                 if (f.dist == f.infinity){
                     f.dist = ((Last)n.d).dist + 1;
                     f.last = n;
-                    queue.putInQueue(k.til);
+                    queue.putInQueue(k.to);
                 }
             }
         }
@@ -90,12 +89,12 @@ class Graph {
 
 
 class Kant{
-    Kant neste;
-    Node til;
+    Kant next;
+    Node to;
 
     public Kant(Node n, Kant nst){
-        til = n;
-        neste = nst;
+        to = n;
+        next = nst;
     }
 }
 
