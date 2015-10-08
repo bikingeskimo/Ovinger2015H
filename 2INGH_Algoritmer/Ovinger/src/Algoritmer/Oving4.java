@@ -11,11 +11,11 @@ import java.util.Scanner;
  * 	Et lite tips: hvis listen din har en «slutt», som blir et «spesialtilfelle», har du neppe
  * 	gjort dette rett.
  * 
- * Bruk ei sirkulær liste til å løse Josephus problem:
+ * Bruk ei sirkulær liste to å løse Josephus problem:
  * 
  * Romerne var i ferd med å fange 40 soldater samt Josephus. Soldatene ville heller begå selvmord enn å overgi seg. 
  * De besluttet at alle skulle stille seg i en sirkel, og så skulle hver tredje person drepes inntil det ikke var flere igjen.
- * Josephus ville ikke dø, så han regnet raskt ut hvor han måtte stille sg for å bli den siste til å begå selvmord, og dermed slippe å gjøre det
+ * Josephus ville ikke dø, så han regnet raskt ut hvor han måtte stille sg for å bli den siste to å begå selvmord, og dermed slippe å gjøre det
  * 
  * Lag et program som finner ut hvor Josephus bør stå, avhengig av hvor mange personer som er med, og hvor stort intervall man bruker.
  * 

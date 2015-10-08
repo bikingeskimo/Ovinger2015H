@@ -1,4 +1,4 @@
-package Algoritmer.Oving7;
+package Algoritmer;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -43,14 +43,14 @@ class Graph {
 
         for (int i = 0; i < K; i++){
             st = new StringTokenizer(br.readLine());
-            int fra = Integer.parseInt(st.nextToken());
-            int til = Integer.parseInt(st.nextToken());
-            Kant k = new Kant(node[til], node[fra].kant2);
-            node[fra].kant2 = k;
+            int from = Integer.parseInt(st.nextToken());
+            int to = Integer.parseInt(st.nextToken());
+            Kant k = new Kant(node[to], node[from].kant2);
+            node[from].kant2 = k;
         }
     }
 
-    public void initforgj(Node s){
+    public void init(Node s){
         for (int i = N; i-->0;){
             node[i].d = new Last();
         }
@@ -58,17 +58,17 @@ class Graph {
     }
 
     public void bfs(Node s){
-        initforgj(s);
+        init(s);
         Queue queue = new Queue(N - 1);
         queue.putInQueue(s);
         while (!queue.empty()){
             Node n = (Node) queue.nextInQueue();
-            for (Kant k = n.kant2; k != null; k = k.neste){
-                Last f = (Last)k.til.d;
+            for (Kant k = n.kant2; k != null; k = k.next){
+                Last f = (Last)k.to.d;
                 if (f.dist == f.infinity){
                     f.dist = ((Last)n.d).dist + 1;
                     f.last = n;
-                    queue.putInQueue(k.til);
+                    queue.putInQueue(k.to);
                 }
             }
         }
@@ -89,12 +89,12 @@ class Graph {
 
 
 class Kant{
-    Kant neste;
-    Node til;
+    Kant next;
+    Node to;
 
     public Kant(Node n, Kant nst){
-        til = n;
-        neste = nst;
+        to = n;
+        next = nst;
     }
 }
 
