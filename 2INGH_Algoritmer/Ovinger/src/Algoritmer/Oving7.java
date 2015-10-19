@@ -21,7 +21,7 @@ public class Oving7 {
         BufferedReader br = new BufferedReader(new FileReader(fil1));
         Graph graph = new Graph();
         graph.newGraph(br);
-        graph.bfs(graph.node[3]);
+        graph.bfs(graph.node[5]);
         System.out.println(graph.toString());
     }
 }
@@ -45,12 +45,12 @@ class Graph {
             st = new StringTokenizer(br.readLine());
             int from = Integer.parseInt(st.nextToken());
             int to = Integer.parseInt(st.nextToken());
-            Kant k = new Kant(node[to], node[from].kant2);
-            node[from].kant2 = k;
+            Kant k = new Kant(node[to], node[from].kant);
+            node[from].kant = k;
         }
     }
 
-    public void init(Node s){
+    public void putInQueue(Node s){
         for (int i = N; i-->0;){
             node[i].d = new Last();
         }
@@ -58,12 +58,12 @@ class Graph {
     }
 
     public void bfs(Node s){
-        init(s);
+        putInQueue(s);
         Queue queue = new Queue(N - 1);
         queue.putInQueue(s);
         while (!queue.empty()){
             Node n = (Node) queue.nextInQueue();
-            for (Kant k = n.kant2; k != null; k = k.next){
+            for (Kant k = n.kant; k != null; k = k.next){
                 Last f = (Last)k.to.d;
                 if (f.dist == f.infinity){
                     f.dist = ((Last)n.d).dist + 1;
@@ -75,7 +75,7 @@ class Graph {
     }
 
     public String toString(){
-        String str = "Node	Last 	Dist \n";
+        String str = "Node	Forgjenger 	Distanse \n";
         for(int i = 0; i<node.length; i++){
             if(((Last)node[i].d).last != null){
                 str += "" + i + "	" + ((Last)node[i].d).last.getNr() + " 	" + ((Last)node[i].d).dist + "\n";
@@ -99,7 +99,7 @@ class Kant{
 }
 
 class Node{
-    Kant kant2;
+    Kant kant;
     Object d;
     int nr;
 

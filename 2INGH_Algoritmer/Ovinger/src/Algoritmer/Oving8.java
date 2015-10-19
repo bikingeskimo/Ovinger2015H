@@ -47,12 +47,12 @@ class Graph2 {
             int from = Integer.parseInt(st.nextToken());
             int to = Integer.parseInt(st.nextToken());
             int weight = Integer.parseInt(st.nextToken());
-            VKant k = new VKant(node[to], (VKant) node[from].kant2, weight);
-            node[from].kant2 = k;
+            VKant k = new VKant(node[to], (VKant) node[from].kant, weight);
+            node[from].kant = k;
         }
     }
 
-    public void init(Node s) {
+    public void putInQueue(Node s) {
         for (int i = N; i-- > 0; ) {
             node[i].d = new Last();
         }
@@ -60,12 +60,12 @@ class Graph2 {
     }
 
     public void dijkstra(Node s) {
-        init(s);
+        putInQueue(s);
         Node[] pri = new Node[N];
         makePrioritizedQueue(pri);
         for (int i = N; i > 1; i--) {
             Node n = get_min(i, pri);
-            for (VKant k = (VKant) n.kant2; k != null; k = (VKant) k.next) {
+            for (VKant k = (VKant) n.kant; k != null; k = (VKant) k.next) {
                 shorten(n, k);
             }
         }
@@ -98,7 +98,9 @@ class Graph2 {
     }
 
     public String toString(int start) {
-        String str = "Node  \nLast 	\nDistance";
+        String str = "Node  Forgjenger  Distanse ";
+
+        System.out.println(str);
 
         for (int i = 0; i < node.length; i++) {
             Last f = (Last) node[i].d;
