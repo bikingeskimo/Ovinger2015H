@@ -22,7 +22,7 @@ public class SearchEngine {
     public SearchEngine(UrlPageReader dummyReader) {
         this.reader = dummyReader;
     }
-    
+
     public void indexPage(String url) {
         String[] words = reader.readPage(url);
         for(String word : words) {
@@ -41,7 +41,8 @@ public class SearchEngine {
     }
     
     public List<String> search(String word) {
-        Map<String,Integer> scoresForWord = scores.get(word);
+        final Map<String,Integer> scoresForWord = scores.get(word);
+        if(scoresForWord == null) return null;
         List<String> sites = new ArrayList<String>(scoresForWord.keySet());
         Collections.sort(sites, new Comparator<String>() {
             @Override
