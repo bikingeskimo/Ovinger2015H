@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-validator</artifactId>
+    <version>5.2.2.Final</version>
+</dependency>
