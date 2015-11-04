@@ -34,5 +34,7 @@
     <orderEntry type="library" name="Spring Security-3.2.5" level="project" />
     <orderEntry type="library" name="Spring Integration-4.0.3" level="project" />
     <orderEntry type="library" name="Spring MVC-4.1.6.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="GlassFish 4.1.0" level="application_server_libraries" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.0.26" level="application_server_libraries" />
   </component>
 </module>
