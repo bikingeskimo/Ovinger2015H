@@ -3,7 +3,7 @@
 <%@ taglib prefix="language" uri="http://www.springframework.org/tags" %>
 
 <%@page import="springmvc.userexample.domain.User" %>
-<jsp:useBean id="bean" class="springmvc.userexample.domain.User" scope="session"/>
+<jsp:useBean id="bean" scope="request" class="springmvc.userexample.domain.User"/>
 <jsp:setProperty name="bean" property="*"/>
 
 <!DOCTYPE html>

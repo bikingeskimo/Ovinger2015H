@@ -5,6 +5,8 @@
 <%@ taglib uri="http://www.springframework.org/tags" prefix="language" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="spring" %>
 
+<jsp:useBean id="bean" scope="request" class="springmvc.userexample.domain.User"/>
+<jsp:setProperty name="bean" property="*"/>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
     "http://www.w3.org/TR/html4/loose.dtd">
