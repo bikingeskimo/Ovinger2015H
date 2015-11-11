@@ -88,16 +88,6 @@ class Graph {
 }
 
 
-class Kant{
-    Kant next;
-    Node to;
-
-    public Kant(Node n, Kant nst){
-        to = n;
-        next = nst;
-    }
-}
-
 class Node{
     Kant kant;
     Object d;

@@ -36,9 +36,9 @@ public class Oving13{
 
     public void initforgj(Node s) {
         for (int i = N; i-- > 0; ) {
-            node[i].d = new Last();
+            node[i].d = new Siste();
         }
-        ((Last) s.d).dist = 0;
+        ((Siste) s.d).dist = 0;
     }
 
     public void lag_priko(Node[] t) {
@@ -60,7 +60,7 @@ public class Oving13{
     Node hent_min(int ant, Node[] n) {
         int min = 0;
         for (int i = ant; --i > 0; ) {
-            if (((Last) n[i].d).dist < ((Last) n[min].d).dist) {
+            if (((Siste) n[i].d).dist < ((Siste) n[min].d).dist) {
                 min = i;
             }
         }
@@ -69,12 +69,13 @@ public class Oving13{
         return ret;
     }
     public void forkort(Node n, VKant k) {
-        Last nd = (Last) n.d, md = (Last) k.til.d;
+        Siste nd = (Siste) n.d, md = (Siste) k.til.d;
         if (md.dist > nd.dist + k.weight) {
             md.dist = nd.dist + k.weight;
             md.last = n;
         }
     }
+
 
 
 }

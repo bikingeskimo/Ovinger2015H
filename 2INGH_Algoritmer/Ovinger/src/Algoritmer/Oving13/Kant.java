@@ -2,11 +2,15 @@ package Algoritmer.Oving13;
 
 
 class Kant {
-    Kant neste;
-    Node til;
-    public Kant(Node n, Kant nst) {
-        til = n;
-        neste = nst;
+    public final Node til;
+    public int kjøretid;
+    public int lengde;
+    public int fartsgrense;
+
+
+    public Kant(Node til, int kjøretid) {
+        this.til = til;
+        this.kjøretid = kjøretid;
     }
 }
 

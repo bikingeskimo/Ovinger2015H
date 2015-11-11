@@ -1,9 +1,9 @@
-package Algoritmer.Oving8;
+package Algoritmer.Oving7;
 
 /**
  * Created by Roger on 11/11/2015.
  */
-class Kant {
+class Kant{
     Kant next;
     Node to;
 

@@ -98,7 +98,7 @@ public class Oving4 {
 				}
 				i++;
 			}
-			System.out.println("Last remaining soldier is " + x.data);
+			System.out.println("Siste remaining soldier is " + x.data);
 		}else {
 		      System.err.println("Parameter must be between 1 and n ");
 		  }
