@@ -30,6 +30,6 @@
 
     <bean id="tilesConfigurer" class="org.springframework.web.servlet.view.tiles3.TilesConfigurer"/>
     <bean id="tilesViewResolver" class="org.springframework.web.servlet.view.tiles3.TilesViewResolver"/>
-
+    <bean id="user" class="springmvc.userexample.domain.User"/>
 </beans>
 

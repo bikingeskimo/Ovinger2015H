@@ -1,6 +1,7 @@
 
 package springmvc.userexample.ui;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import springmvc.userexample.domain.User;
 
 import javax.validation.Valid;
@@ -12,6 +13,7 @@ public class UserForm {
     @Valid 
     private User user;
 
+    @Autowired
     public UserForm(){
         setUser(new User());//opprett bruker
     }

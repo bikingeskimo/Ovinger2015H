@@ -2,9 +2,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib prefix="language" uri="http://www.springframework.org/tags" %>
 
-<%@page import="springmvc.userexample.domain.User" %>
-<jsp:useBean id="bean" scope="request" class="springmvc.userexample.domain.User"/>
-<jsp:setProperty name="bean" property="*"/>
+<%@page import="springmvc.userexample.ui.UserForm" %>
+<jsp:useBean id="userForm" scope="session" class="springmvc.userexample.ui.UserForm"/>
 
 <!DOCTYPE html>
 <html>
@@ -27,5 +26,6 @@
         <p> <language:message code="hobbies"/>: ${user.hobby}
             
         <p> All: ${user}
+        <p><a href="/display.htm"/>Display</p>
     </body>
 </html>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26f299f1-33c1-4abe-b232-acdd114d68da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userform.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userform.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userformresult.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userformresult.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userform.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userform.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userformresult.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userformresult.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="26f299f1-33c1-4abe-b232-acdd114d68da" name="Default" comment="" />
     <ignored path="Systemutvikling2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />

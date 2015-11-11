@@ -1,12 +1,12 @@
 <%--suppress ALL --%>
-<%@page import="springmvc.userexample.domain.User" %>
+<%@page import="springmvc.userexample.ui.UserForm" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="language" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="spring" %>
 
-<jsp:useBean id="bean" scope="request" class="springmvc.userexample.domain.User"/>
-<jsp:setProperty name="bean" property="*"/>
+<jsp:useBean id="userForm" scope="session" class="springmvc.userexample.ui.UserForm"/>
+<jsp:setProperty name="userForm" property="*"/>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
     "http://www.w3.org/TR/html4/loose.dtd">
@@ -37,7 +37,7 @@
         </tr>
 		<tr>
             <td><language:message code="gender"/>:</td>
-			<td><form:radiobutton path="user.gender" value="M" label="M" /> 
+			<td><form:radiobutton path="user.gender" value="M" label="M" />
 				<form:radiobutton path="user.gender" value="F" label="F" />
 			</td>
 			<td><form:errors path="user.gender" /></td>

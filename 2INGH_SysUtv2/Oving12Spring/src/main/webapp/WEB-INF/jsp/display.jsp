@@ -6,14 +6,13 @@
   Time: 11.33
   To change this template use File | Settings | File Templates.
 --%>
-<%@page import="springmvc.userexample.domain.User" %>
+<%@page import="springmvc.userexample.ui.UserForm" %>
 <%@page contentType="text/html;charset=UTF-8" language="java"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="language" %>
 
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-<jsp:useBean id="bean" class="springmvc.userexample.domain.User" scope="session"/>
-<jsp:setProperty name="bean" property="*"/>
+<jsp:useBean id="userForm" class="springmvc.userexample.ui.UserForm" scope="session"/>
 
 <!DOCTYPE html>
 <html>
