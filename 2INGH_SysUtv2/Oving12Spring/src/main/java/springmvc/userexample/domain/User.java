@@ -23,7 +23,9 @@ public class User implements Serializable{
     @NotEmpty
     public String hobby;
 
-    
+    public User() {
+    }
+
     public String getFirstname() {
         return firstname;
     }

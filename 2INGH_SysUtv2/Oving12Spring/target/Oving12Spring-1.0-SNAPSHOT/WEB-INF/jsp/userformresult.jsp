@@ -1,9 +1,3 @@
-<%-- 
-    Document   : userformresult
-    Created on : Aug 29, 2013, 2:29:45 PM
-    Author     : tomash
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib prefix="language" uri="http://www.springframework.org/tags" %>
@@ -33,8 +27,5 @@
         <p> <language:message code="hobbies"/>: ${user.hobby}
             
         <p> All: ${user}
-
-        <p><a href="userform.jsp">Back</a> </p>
-        <p> <language:message code="footer"/>
     </body>
 </html>

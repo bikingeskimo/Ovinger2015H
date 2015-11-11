@@ -3,6 +3,11 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="Oving12Spring-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Oving12Spring:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/tiles/tiles-api/3.0.5/tiles-api-3.0.5.jar" />
+        </element>
+      </element>
     </root>
   </artifact>
 </component>

@@ -2,282 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f299f1-33c1-4abe-b232-acdd114d68da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/commons-logging-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-aop-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-aspects-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-batch-core-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-beans-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-binding-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-context-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-context-support-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-core-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-data-jpa-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-expression-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-faces-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-instrument-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-instrument-tomcat-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-amqp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-core-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-event-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-feed-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-file-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-ftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-groovy-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-http-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-ip-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-jms-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-jmx-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-jpa-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-mail-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-redis-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-rmi-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-scripting-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-security-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-sftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-stream-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-syslog-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-test-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-twitter-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-ws-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-xml-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-jdbc-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-jms-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-js-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-js-resources-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-messaging-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-orm-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-oxm-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-acl-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-aspects-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-cas-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-config-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-core-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-crypto-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-ldap-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-openid-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-remoting-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-taglibs-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-security-web-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-test-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-tx-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-web-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-webflow-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-webmvc-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-webmvc-portlet-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-websocket-4.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/lib/spring-ws.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/hibernate.validator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-batch-core-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-binding-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-data-jpa-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-faces-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-amqp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-core-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-event-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-feed-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-file-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-ftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-groovy-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-http-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-ip-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-jms-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-jmx-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-jpa-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-mail-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-redis-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-rmi-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-scripting-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-security-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-sftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-stream-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-syslog-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-test-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-twitter-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-ws-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-xml-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-js-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-js-resources-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-acl-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-aspects-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-cas-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-config-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-core-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-crypto-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-ldap-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-openid-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-remoting-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-taglibs-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-security-web-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-web-4.1.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-webflow-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-webmvc-4.1.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-websocket-4.1.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/lib/spring-ws.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_aop_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_beans_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_context_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_core_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_expression_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_web_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/Oving12Spring.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/nb-configuration.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/ui/UserForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/META-INF/context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userform.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userformresult.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/messages_no.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_aop_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_beans_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_context_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_core_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_expression_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_web_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/src/test/java/main/domene/Tall.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/src/test/java/main/kontroller/TallKontroller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/messages_no.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/spring-servlet.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Oving12/.idea/artifacts/Oving12_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Oving12/web/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Oving12/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/Spring.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-batch-core-2.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-binding-2.4.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-data-jpa-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-faces-2.4.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-amqp-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-core-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-event-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-feed-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-file-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-ftp-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-groovy-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-http-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-ip-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-jms-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-jmx-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-jpa-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-mail-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-redis-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-rmi-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-scripting-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-security-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-sftp-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-stream-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-syslog-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-test-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-twitter-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-ws-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-xml-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-js-2.4.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-js-resources-2.4.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-acl-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-aspects-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-cas-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-config-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-core-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-crypto-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-ldap-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-openid-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-remoting-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-taglibs-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-security-web-3.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-web-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-webflow-2.4.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-webmvc-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-websocket-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/lib/spring-ws.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/spring-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/src/main/java/demo/EksempelKonfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/src/main/java/demo/InitDispatcherServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/src/main/java/demo/Tall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/src/main/java/demo/TallKontroller.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Systemutvikling2_Web2_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Systemutvikling2_Web2_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Systemutvikling2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Systemutvikling2_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/compiler-0.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/guava-12.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.7.ga.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/jsr305-1.3.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/mvel2-2.0.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/ognl-2.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/oro-2.0.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/servlet-api-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.1.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-api-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-autotag-core-runtime-1.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-compat-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-core-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-el-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-extras-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-freemarker-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-jsp-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-mvel-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-ognl-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-api-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-freemarker-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-mustache-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-servlet-wildcard-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-velocity-1.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-servlet-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-template-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/tiles-velocity-3.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/velocity-1.6.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/lib/velocity-tools-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/-1051956241.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/-1159528291.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/-1560699798.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/-447918784.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/1460661367.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/405374137.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/435609493.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/669971421.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/876870057.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__commons_digester_commons_digester_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__jboss_javassist_3_7_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__ognl_ognl_2_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_api_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_autotag_core_runtime_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_compat_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_core_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_el_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_extras_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_freemarker_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_jsp_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_mvel_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_ognl_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_api_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_freemarker_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_jsp_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_mustache_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_servlet_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_servlet_wildcard_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_request_velocity_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_servlet_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_template_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_tiles_tiles_velocity_3_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_freemarker_freemarker_2_3_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_mvel_mvel2_2_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_aop_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_beans_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_context_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_core_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_expression_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_web_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/webContexts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/controller/DisplayController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/controller/UserformresultController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/display.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/tiles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/tiles/baseLayout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/tiles/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/tiles/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/tiles/menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/display.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/tiles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/tiles/baseLayout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/tiles/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/tiles/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/tiles/menu.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.mylyn/.tasks.xml.zip" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.mylyn/.tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.mylyn/tasks.xml.zip" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.mylyn/tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/classes/springmvc/userexample/domain/User.class" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/classes/springmvc/userexample/domain/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/classes/springmvc/userexample/ui/UserForm.class" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/classes/springmvc/userexample/ui/UserForm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/classes/springmvc/userexample/domain/User.class" afterPath="$PROJECT_DIR$/../Oving12Spring/target/classes/springmvc/userexample/domain/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/classes/springmvc/userexample/ui/UserForm.class" afterPath="$PROJECT_DIR$/../Oving12Spring/target/classes/springmvc/userexample/ui/UserForm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.log" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/version.ini" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war_exploded.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/artifacts/Oving12Spring_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/Oving12Spring.iml" afterPath="$PROJECT_DIR$/../Oving12Spring/Oving12Spring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/domain/User.java" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/domain/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/ui/UserForm.java" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/java/springmvc/userexample/ui/UserForm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userform.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userform.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userformresult.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/jsp/userformresult.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/messages.properties" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/messages.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/spring-servlet.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/src/main/webapp/WEB-INF/spring-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userform.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userform.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userformresult.jsp" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/jsp/userformresult.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/messages.properties" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/messages.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/spring-servlet.xml" afterPath="$PROJECT_DIR$/../Oving12Spring/target/Oving12Spring-1.0-SNAPSHOT/WEB-INF/spring-servlet.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Systemutvikling2.iml" afterPath="$PROJECT_DIR$/Systemutvikling2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/artifacts/eksempelSpring2.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/artifacts/eksempelSpring2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Batch_2_2_6.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Batch_2_2_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Data_JPA_1_3_3.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Data_JPA_1_3_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Integration_4_0_3.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Integration_4_0_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_MVC_4_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_MVC_4_1_6_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Security_3_2_5.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Security_3_2_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Web_Services_2_0_2.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Web_Services_2_0_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Webflow_2_4_0.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/libraries/Spring_Webflow_2_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/eksempelSpring2.iml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/eksempelSpring2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/pom.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/jsp/index.jsp" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/jsp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../../eksempelSpring2/Spring/src/spring-config.xml" afterPath="$PROJECT_DIR$/../../eksempelSpring2/web/WEB-INF/spring-config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" afterPath="$PROJECT_DIR$/../../2INGH_Algoritmer/.metadata/.plugins/org.eclipse.core.resources/.root/5.tree" />
     </list>
     <ignored path="Systemutvikling2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -300,31 +182,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Person.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/Oving7/Person.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.48305085">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Oppsummering.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/Oving7/Oppsummering.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state vertical-scroll-proportion="-4.9">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Oving7/Person.jsp">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Spam.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/Oving7/Spam.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24285714">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="20" />
+            <state vertical-scroll-proportion="-2.1">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -336,8 +218,14 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="false" />
+                <element signature="e#239#240#0" expanded="false" />
+                <element signature="e#270#271#0" expanded="false" />
+                <element signature="e#297#298#0" expanded="false" />
+                <element signature="e#333#334#0" expanded="false" />
+                <element signature="e#361#362#0" expanded="false" />
+                <element signature="e#401#402#0" expanded="false" />
+                <element signature="e#433#434#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -443,10 +331,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3192" />
-    <option name="y" value="14" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="952" />
+    <option name="width" value="976" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -498,9 +385,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -573,58 +457,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Systemutvikling2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1143,14 +980,17 @@
       <workItem from="1446670942380" duration="1017000" />
       <workItem from="1446673764897" duration="1250000" />
       <workItem from="1446680871955" duration="425000" />
+      <workItem from="1447233059205" duration="693000" />
+      <workItem from="1447238034120" duration="619000" />
+      <workItem from="1447244445955" duration="937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78877000" />
+    <option name="totallyTimeSpent" value="81126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3192" y="14" width="1696" height="1026" extended-state="6" />
+    <frame x="952" y="0" width="976" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1163,7 +1003,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17237164" sideWeight="0.49693787" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35176992" sideWeight="0.49693787" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1702439" sideWeight="0.5030621" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1232,6 +1072,23 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Oving5/rest/Kunde.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/Oving7/Spam.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1245,8 +1102,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1412,13 +1275,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Oving4/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06373293">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/Oving3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1475,13 +1331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Oving4/game.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099270076">
-          <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/Oving4/moveObj.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3347398">
@@ -1500,21 +1349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1236162">
           <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/lib/c.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1623037">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1547,45 +1381,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Downloads/eksempelkode/SummerToTallMedFormOgValidering_Internasjonalisering/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30357143">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Oving5/rest/Kunde.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Oving7/Person.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Oving7/Oppsummering.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1593,14 +1402,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1374134">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Oving4/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Oving4/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10047847">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Oving7/Spam.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24285714">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.25089607">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32616487">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/lib/c.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="497" column="26" selection-start-line="497" selection-start-column="22" selection-end-line="497" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Oving7/Oppsummering.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Oving7/Person.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48305085">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>

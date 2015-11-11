@@ -25,7 +25,7 @@ public class UserForm {
     }
     
     public List getCountryList(){
-        String[] s = {"Norway","Greece","Sweden","England", "Denmark"};
+        String[] s = {"Norway","Greece","Sweden","England", "Denmark", "Helvete"};
         return Arrays.asList(s);
     }
 
