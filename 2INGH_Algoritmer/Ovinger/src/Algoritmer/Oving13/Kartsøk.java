@@ -9,14 +9,14 @@ public class Kartsøk {
 
     int noderSjekket;
 
-    public void aStjerne(Node start, Node mål){
+    public void aStjerne(Node1 start, Node1 mål){
         start.minDist = 0;
-        PriorityQueue<Node> nodeKø = new PriorityQueue<>();
-        nodeKø.add(start);
+        PriorityQueue<Node1> node1Kø = new PriorityQueue<>();
+        node1Kø.add(start);
         int counter = 0;
 
-        while(!nodeKø.isEmpty()){
-            Node n = nodeKø.poll();
+        while(!node1Kø.isEmpty()){
+            Node1 n = node1Kø.poll();
             counter++;
             if(n.getID() == mål.getID()){
                 break;
@@ -28,7 +28,7 @@ public class Kartsøk {
         }
     }
 
-    public double finnKjøretid(Node fra, Node til){
+    public double finnKjøretid(Node1 fra, Node1 til){
         double bredde1 = (fra.latitude*Math.PI)/180.0;
         double bredde2 = (til.latitude*Math.PI)/180.0;
         double lengde1 = (fra.longtitude*Math.PI)/180.0;

@@ -21,7 +21,7 @@ public class Oving8 {
         }
 
         int startNode = 1;
-        graph2.dijkstra(graph2.node[startNode]);
+        graph2.dijkstra(graph2.node2[startNode]);
         graph2.toString(startNode);
     }
 }

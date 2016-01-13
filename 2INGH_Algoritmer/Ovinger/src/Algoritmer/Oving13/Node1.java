@@ -5,22 +5,22 @@ import java.util.ArrayList;
 /**
  * Created by Roger on 09/11/2015.
  */
-public class Node implements Comparable<Node>{
-    public ArrayList<Kant> naboer;
+public class Node1 implements Comparable<Node1>{
+    public ArrayList<Kant3> naboer;
     public int minDist = 100000000;
-    public Node forrige;
+    public Node1 forrige;
 
     public int ID;
     public String navn;
     public double latitude;
     public double longtitude;
 
-    public Node(int ID) {
+    public Node1(int ID) {
         this.ID = ID;
-        naboer = new ArrayList<Kant>();
+        naboer = new ArrayList<Kant3>();
     }
 
-    public ArrayList<Kant> getNaboer(){
+    public ArrayList<Kant3> getNaboer(){
         return naboer;
     }
 
@@ -36,7 +36,7 @@ public class Node implements Comparable<Node>{
         this.ID = ID;
     }
 
-    public int compareTo(Node n){
+    public int compareTo(Node1 n){
         return Integer.compare(minDist, n.minDist);
     }
 

@@ -2,6 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving7/Kant1.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/Oving8.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/Kant2.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/Node2.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving4/Oving4.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/Graph2.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/VKant2.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving8/Last2.java" />
+      <file url="file://$PROJECT_DIR$/src/Algoritmer/Oving4/Oving4b.java" />
+    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -20,4 +32,3 @@
     </annotationProcessing>
   </component>
 </project>
-

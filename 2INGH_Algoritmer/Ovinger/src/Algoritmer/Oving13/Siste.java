@@ -5,14 +5,14 @@ package Algoritmer.Oving13;
  */
 class Siste {
     int dist;
-    Node last;
+    Node1 last;
     public static int infinity = 1000000000;
 
     public int getDist(){
         return dist;
     }
 
-    public Node getSiste(){
+    public Node1 getSiste(){
         return last;
     }
     public Siste(){

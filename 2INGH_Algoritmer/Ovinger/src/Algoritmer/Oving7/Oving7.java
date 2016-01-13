@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 
 public class Oving7 {
     public static void main(String[] args) throws IOException{
-        File fil1 = new File("fil1.txt");                           //bruker L7g1-4, men kaller dem fil1, fil2 osv
+        File fil1 = new File("fil1.txt");
         File fil2 = new File("fil2.txt");
         File fil3 = new File("fil3.txt");
         File fil4 = new File("fil4.txt");
@@ -45,8 +45,8 @@ class Graph {
             st = new StringTokenizer(br.readLine());
             int from = Integer.parseInt(st.nextToken());
             int to = Integer.parseInt(st.nextToken());
-            Kant k = new Kant(node[to], node[from].kant);
-            node[from].kant = k;
+            Kant1 k = new Kant1(node[to], node[from].kant1);
+            node[from].kant1 = k;
         }
     }
 
@@ -63,7 +63,7 @@ class Graph {
         queue.putInQueue(s);
         while (!queue.empty()){
             Node n = (Node) queue.nextInQueue();
-            for (Kant k = n.kant; k != null; k = k.next){
+            for (Kant1 k = n.kant1; k != null; k = k.next){
                 Last f = (Last)k.to.d;
                 if (f.dist == f.infinity){
                     f.dist = ((Last)n.d).dist + 1;
@@ -75,7 +75,7 @@ class Graph {
     }
 
     public String toString(){
-        String str = "Node	Forgjenger 	Distanse \n";
+        String str = "Node1	Forgjenger 	Distanse \n";
         for(int i = 0; i<node.length; i++){
             if(((Last)node[i].d).last != null){
                 str += "" + i + "	" + ((Last)node[i].d).last.getNr() + " 	" + ((Last)node[i].d).dist + "\n";
@@ -89,7 +89,7 @@ class Graph {
 
 
 class Node{
-    Kant kant;
+    Kant1 kant1;
     Object d;
     int nr;
 

@@ -31,8 +31,8 @@ class Graf {
                     Kant(node[til], node[fra].kant1);
             node[fra].kanter.add(k);
 
-            //Kant k2 = new
-              //      Kant(node[fra], node[til].kant1);
+            //Kant1 k2 = new
+              //      Kant1(node[fra], node[til].kant1);
             //node[til].kanter.add(k2);
         }
     }

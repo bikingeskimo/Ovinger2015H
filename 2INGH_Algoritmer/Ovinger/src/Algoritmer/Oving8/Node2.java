@@ -1,12 +1,10 @@
 package Algoritmer.Oving8;
 
-import Algoritmer.Oving13.Oving13;
-
 /**
  * Created by Roger on 09/11/2015.
  */
-class Node{
-    Oving13.Kant kant1;
+class Node2 {
+    Kant2 kant21;
     Object d;
     int nr;
 
