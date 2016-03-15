@@ -28,15 +28,16 @@ public class Andre {
         try {
             Reader read = new FileReader(file);
             bufferedReader = new BufferedReader(read);
-            a.box(bufferedReader.readLine().replace("x",""));
+            //a.box(bufferedReader.readLine().replace("x",""));
 
         } catch (IOException e) {
             System.out.println("Fant ikke fil");
         }
 
-        for (int i = 0; i < input.length(); i++) {
+        /*for (int i = 0; i < input.length(); i++) {
             int total = a.box()+a.extra();
-        }
-
+        }*/
     }
 }
+
+

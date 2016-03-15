@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c4427b5-d6c7-407d-b665-672ccdf82592" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/smaating/Advent/Andre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/smaating/Advent/Forste.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/smaating/Summetest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Kant1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Oving13.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/VKant.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Ovinger/smaating/Kvadratrot.class" afterPath="$PROJECT_DIR$/out/production/Ovinger/smaating/Kvadratrot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Kartsøk.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving13/Kartsøk.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Siste.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving13/Siste.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving7/Oving7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/Graph2.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/Graph2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/Oving8.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/Oving8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving9/Graf.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving9/Graf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Kant.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving13/Kant3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving13/Node.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving13/Node1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving7/Kant.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving7/Kant1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/Kant.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/Kant2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/Last.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/Last2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/Node.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/Node2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algoritmer/Oving8/VKant.java" afterPath="$PROJECT_DIR$/src/Algoritmer/Oving8/VKant2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/smaating/Advent/Andre.java" afterPath="$PROJECT_DIR$/src/smaating/Advent/Andre.java" />
     </list>
     <ignored path="Ovinger.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,46 +24,7 @@
     <favorites_list name="Ovinger" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Forste.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/smaating/Advent/Forste.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Andre.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/smaating/Advent/Andre.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.39421338">
-                  <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Oving9.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving9/Oving9.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.39891696">
-                  <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="21" selection-end-column="9" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,10 +95,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="-212" />
-    <option name="width" value="1040" />
-    <option name="height" value="1296" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -185,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,6 +247,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -895,14 +835,15 @@
       <workItem from="1449316879449" duration="2390000" />
       <workItem from="1449340006080" duration="2253000" />
       <workItem from="1449396903644" duration="1196000" />
+      <workItem from="1454951135644" duration="121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56015000" />
+    <option name="totallyTimeSpent" value="56136000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-212" width="1040" height="1296" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -912,24 +853,24 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21753247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23673469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23667377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21840069" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1306,14 +1247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/smaating/Advent/Forste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving10/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1332,16 +1265,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algoritmer/Oving9/Oving9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39891696">
+        <state vertical-scroll-proportion="0.41013825">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smaating/Advent/Forste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32254463">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/smaating/Advent/Andre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39421338">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.68303573">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
           <folding />
         </state>
       </provider>
